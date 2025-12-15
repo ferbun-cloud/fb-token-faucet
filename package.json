@@ -1,0 +1,14 @@
+{
+  "name": "fb-token-faucet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
